@@ -5,8 +5,8 @@ A batch version of git.
 Try getting my example repo like this:<br><br>
 <code>
 $ gitr cmdcustom/examplegr
-</code>
-Done?<br<br>
+</code><br><br>
+Done?<br><br>
 <code>
 $ gitr-remove examplegr
 </code>
