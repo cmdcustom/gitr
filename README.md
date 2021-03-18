@@ -6,9 +6,9 @@ Try getting my example repo like this:<br><br>
 <code>
 $ gitr cmdcustom/examplegr
 </code><br><br>
-Done?<br><br>
+Done:<br><br>
 <code>
 $ gitr-remove examplegr
 </code>
 
-# Adding support for uploading soon.
+**Adding support for uploading soon.**
