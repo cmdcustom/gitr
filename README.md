@@ -1,8 +1,8 @@
 # GITR
-# ___________
+
 A batch version of git.
 
-Try getting my example repo like this:
+Try getting my example repo like this:<br>
 <code>
 $ gitr cmdcustom/examplegr
 </code>
