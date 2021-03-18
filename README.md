@@ -1,4 +1,4 @@
-#gitr
+# gitr
 A batch version of git.
 
 Try getting my example repo like this:
